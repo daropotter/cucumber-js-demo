@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "selenium-webdriver": "^4.1.1",
+    "@cucumber/cucumber": "^7.0.0"
+  },
+  "name": "cucumberjs",
+  "version": "1.0.0",
+  "main": "cucumber.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Daro Potter",
+    "email": "daropotter@gmail.com",
+    "url": "https://daropotter.com"
+  },
+  "license": "MIT",
+  "description": "A demo of Gherkin tests in JS using Cucumber.js library."
+}
